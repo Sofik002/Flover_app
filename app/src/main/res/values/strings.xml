@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flover app</string>
+    <string name="flover">FLOVER</string>
+    <string name="registrationtText">Зарегистрироавться</string>
+    <string name="logIn">Войти</string>
+</resources>
